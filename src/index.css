@@ -1,0 +1,179 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Oxygen', sans-serif;
+  background-color: gainsboro;
+}
+
+.frmSoma ,
+.frmSub ,
+.frmCalcPorc ,
+.frmMult ,
+.frmDiv {
+  width: 40%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: white;
+  padding: 20px;
+  box-shadow: 0px 0px 5px silver;
+  border-radius: 8px;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  font-size: 20px;
+  color: darkblue;
+}
+
+.frmSoma svg {
+  font-size: x-large;
+  color: darkblue;
+}
+
+.frmSub svg {
+  font-size: x-large;
+  color: darkblue;
+}
+
+.frmCalcPorc svg {
+  font-size: x-large;
+  color: darkblue;
+}
+
+.frmMult svg {
+  font-size: x-large;
+  color: darkblue;
+}
+
+.frmDiv svg {
+  font-size: x-large;
+  color: darkblue;
+}
+
+.operFund ,
+.porcentagem {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  gap: 20px;
+}
+
+#root {
+  width: 100%;
+  justify-content: center;
+  display: inline;
+}
+
+.home,
+.App {
+  width: 100%;
+  justify-content: center;
+  display: inline;
+  background-color: gainsboro;
+}
+
+.title {
+  width: 100%;
+  align-items: center;
+  text-align: center;
+}
+
+.listaHome {
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  list-style: none;
+}
+
+.btnVoltar {
+  font-size: 18px;
+}
+
+.btnSoma {
+  font-size: 18px;
+}
+
+.btnHome svg {
+  font-size: 200px;
+  color: darkblue;
+  background-color: white ;
+}
+
+.btnHome {
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.voltarHome {
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+}
+
+.btnVoltar svg {
+  font-size: 80px;
+  color: darkblue;
+  background-color: white;
+}
+
+.btnVoltar {
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.title {
+  width: 100%;
+  background-color: darkblue;
+  color: white;
+  font-size: 20px;
+  align-content: center;
+  justify-content: center;
+}
+
+.inputNum {
+  border: 1px solid darkblue;
+  border-radius: 8px;
+  font-size: 18px;
+}
+
+.inputResult {
+  font-size: 18px;
+  border: 1px solid darkblue;
+  border-radius: 8px;
+}
+
+.dicas {
+  background-color: white;
+  width: 25%;
+  margin: auto;
+  padding: 5px;
+  border-radius: 8px;
+  color: darkblue;
+}
+
+.listaConceitos {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  justify-items: center;
+  justify-content: center;
+  padding-left: 10px;
+}
+
+.conceito {
+  width: 250px;
+  box-sizing: border-box;
+  height: 200px;
+  margin: 20px;
+  padding: 10px 10px;
+  background-color: white;
+  border-radius: 18px;
+  display: grid;
+  grid-template-rows: repeat(5, 1fr);
+  color: darkblue;
+}
