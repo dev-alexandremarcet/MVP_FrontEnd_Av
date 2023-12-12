@@ -2,7 +2,7 @@
 
 Este é o projeto MVP da disciplina **Desenvolvimento Front-end Avançado** 
 
-O objetivo deste projeto é possibilitar a realização das **quatro operações fundamentais da Matemática (adição, subtração, multiplicação e divisão)** e efetuar **cálculos de porcentagens**. O público alvo é formado por pessoas interessadas e alunos de todas os níveis de ensino, principalmente do 6º e 7º anos do ensino fundamental.
+O objetivo deste projeto é possibilitar a realização das **quatro operações fundamentais da Matemática (adição, subtração, multiplicação e divisão)** e efetuar **cálculos de porcentagens**. O público alvo é formado por pessoas interessadas e alunos de todos os níveis de ensino, principalmente do 6º e 7º anos do ensino fundamental.
 
 O projeto é composto por três páginas: **Home, OperFund e Porcentagem**. A página Home possui dois links para as outras duas páginas e alguns conceitos matemáticos dos assuntos abordados aqui. Na página OperFund é possível efetuar os cálculos das quatro operações fundamentais. E na página Porcentagem é possível realizar quatro tipos de cálculos diferentes envolvendo porcentagem.
 
