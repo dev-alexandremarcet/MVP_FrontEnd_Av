@@ -8,6 +8,8 @@ O projeto é composto por três páginas: **Home, OperFund e Porcentagem**. A p�
 
 O protótipo foi criado no Figma. As interatividades oriundas dos botôes de navegação entre as páginas do projeto MVP estão presentes no protótipo. Por outro lado, as interatividades das caixas de entrada (input) não estão presentes no protótipo. Isto porque os resultados dos cálculos efetuados em cada página são gerados automaticamente, e essa funcionalidade não está disponível na versão gratuita.
 
+Link para o projeto no Figma: https://www.figma.com/file/FVHDGgxosVlekxgxWQu75r/MVP-Front-End?type=design&node-id=0%3A1&mode=design&t=uoHen8bBH5rA6fEl-1
+
 ## Como executar
 
 Será necessário ter o [Nodejs, ou o npm,](https://nodejs.org/en/download/) instalado. 
